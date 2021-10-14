@@ -1,0 +1,29 @@
+body{background-image: url(img/background.jpg);
+background-size: 100%;}
+.container{}
+header{margin: auto;}
+div{font-family: 'Anton', sans-serif;}
+#logo{width: 100px;
+margin: auto;}
+#tittle{color: green;
+margin-left: 160px;}
+#navegation{text-align: center;
+background-color: green;}
+button{font-size: x-small;}
+h3{display: inline-block;
+color: white;
+margin-top: 20px;
+margin-bottom: 0px;}
+span{color: white;
+font-size: small}
+#car1{background-color: coral;
+    border-color: solid black;
+    border-radius: 25%;
+color: coral;}
+#car2{background-color: green;
+    border-color: solid black;
+    border-radius: 25%;}
+#car3{background-color: rgb(192, 32, 32);
+    border-radius: 25%;
+    border-color: black;
+color: rgb(192, 32, 32);}
